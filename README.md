@@ -10,7 +10,7 @@ Me chamo Nilton César, estou em formação no curso de Análise e Desenvolvimen
  ---
 
  ## Linguagens e tecnologias
- 
+
 <img 
   align="left" 
   alt="JAVA"
@@ -26,7 +26,7 @@ Me chamo Nilton César, estou em formação no curso de Análise e Desenvolvimen
   width="30px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>        
+/>
 <img 
     align="left" 
     alt="HTML"
