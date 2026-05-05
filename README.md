@@ -89,7 +89,7 @@ Me chamo Nilton César, estou em formação no curso de Análise e Desenvolvimen
   width="30px" 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/>    
+/>
 <img
   align="left" 
   alt="Linux"
