@@ -55,4 +55,11 @@ Me chamo Nilton César, estou em formação no curso de Análise e Desenvolvimen
 <br/>
 
 ## Lingua estrangeira
-Ingles
+<img
+    align="left" 
+    alt="ING" 
+    title="ING"
+    width="60px" 
+    style="padding-right: 10px;" 
+    src=https://github.com/NiltonCesarDev/NiltonCesarDev/blob/12ac7543455c6bf4dd680a74db2625067b62c5c1/estados-unidos.png 
+/>
