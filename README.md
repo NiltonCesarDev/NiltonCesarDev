@@ -1,16 +1,45 @@
-## Hi there 👋
+# Nilton César
 
-<!--
-**NiltonCesarDev/NiltonCesarDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Desenvolvedor FullStack`
 
-Here are some ideas to get you started:
+Me chamo Nilton César, estou em formação no curso de Análise e Desenvolvimento de Sistemas e meus objetivos são:
+ - Me tornar um desenvolvedor FulLStack;
+ - Entrar no mercado de trabalho da programação;
+ - Evoluir minhas habilidades enquanto contribuo para o crescimento da empresa que eu estiver inserido.
+ 
+ ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Linguagens e tecnologias
+ 
+<img 
+  align="left" 
+  alt="JAVA"
+  title="JAVA" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>       
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>         
