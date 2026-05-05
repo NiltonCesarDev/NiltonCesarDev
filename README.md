@@ -11,22 +11,6 @@ Me chamo Nilton César, estou em formação no curso de Análise e Desenvolvimen
  ## Linguagens e tecnologias
 
 <img 
-  align="left" 
-  alt="JAVA"
-  title="JAVA" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="Spring"
-  title="Spring" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
     align="left" 
     alt="HTML"
     title="HTML" 
@@ -50,6 +34,55 @@ Me chamo Nilton César, estou em formação no curso de Análise e Desenvolvimen
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img 
+  align="left" 
+  alt="Python"
+  title="Python" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>         
+<img 
+  align="left" 
+  alt="Anaconda"
+  title="Anaconda" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="JAVA"
+  title="JAVA" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Spring"
+  title="Spring" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Spring"
+  title="Spring" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Spring"
+  title="Spring" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+          
 
 <br/>
 <br/>
