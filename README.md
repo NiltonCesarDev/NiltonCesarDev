@@ -110,13 +110,5 @@ Me chamo Nilton César, estou em formação no curso de Análise e Desenvolvimen
     title="ING"
     width="60px" 
     style="padding-right: 10px;" 
-    src=https://github.com/NiltonCesarDev/NiltonCesarDev/blob/c7e503aac6e9f8c192528c41dfa5b88734ad0391/espanha.png 
-/>
-<img
-    align="left" 
-    alt="ING" 
-    title="ING"
-    width="60px" 
-    style="padding-right: 10px;" 
     src=https://github.com/NiltonCesarDev/NiltonCesarDev/blob/80a71b7f2b2e7fdf4aa4491d4ad121b1dca0b23f/franca.png 
 />
